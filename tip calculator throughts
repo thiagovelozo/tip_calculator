@@ -1,0 +1,27 @@
+=begin
+notes on ideas for the problem
+
+three varibles
+ meal = price
+ tax = tax rate
+ tip = tip rate
+
+ tax_value = 
+ meal_with_tax = 
+ tip_value = 
+ total_cost = 
+
+value to mean the insert of the calculation: %.2f 
+value to mean the value stated in text/scenario.
+
+ print
+ pre tax total_cost
+ tax_rate
+ tip_rate
+ total amount payable
+
+print text
+print "The pre-tax cost of your meal was"
+print "At 12%, tax for this meal is"
+print "For a 20% tip, you should leave"
+print "The grand total for this meal is then"
