@@ -1,0 +1,28 @@
+ask users for the:
+cost of their meal, 
+their local tax rate, 
+and how much they’d like to tip. 
+
+then compute:
+
+the amount for tax, 
+the pre-tip amount for the meal, 
+the amount for the tip,
+the total cost of the meal
+
+
+
+pust and gets methods to be used
+
+prompt the user to: "Enter the cost of your meal before tax"
+
+think about: type conversion
+
+gets will be strings
+float values in order to do your arithmetic operations. 
+Float() class
+
+x = "1.45"
+y = Float(x)
+puts "The type of x is #{x.class}"
+puts "The type of y is #{y.class}"
